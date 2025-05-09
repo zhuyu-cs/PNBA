@@ -12,7 +12,7 @@ Our framework employs a probabilistic approach to align neural and behavioral re
 
 This approach reveals robust preserved neural representations across different brain regions and species, providing evidence for consistent neural coding principles despite anatomical differences.
 
-![PNBA Framework Overview](assets/method.jpg)
+<img src="assets/method.jpg" alt="PNBA Framework Overview" width="50%" />
 
 ## Data
 
