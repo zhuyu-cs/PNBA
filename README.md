@@ -38,7 +38,7 @@ python train.py config/config.py
 ### Inference and Evaluations
 Before running inference:
 
-1. Update the 'load_from' parameter in config/config.py with your trained model path
+1. Update the 'load_from' parameter in config/config.py with your trained model path. Here is the [pretrained weights](https://drive.google.com/file/d/1aV3AXVjm1Gdt1zs7Dt1qaHf8PRxVsCBv/view?usp=drive_link)
 2. Run the extraction script with appropriate GPU resources
 
 ```
