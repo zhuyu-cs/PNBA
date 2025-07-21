@@ -1,4 +1,4 @@
-# PNBA: Probabilistic Neural-Behavioral Representation Alignment
+# PNBA: Probabilistic Neural-Behavioral Representation Alignment [ICML2025]
 
 ## Overview
 
